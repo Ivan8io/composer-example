@@ -27,6 +27,6 @@ class Parser implements ParserInterface
     
     public function test()
     {
-        // feature
+        // new feature
     }
 }
